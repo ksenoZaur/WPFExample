@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b3015e5-7762-48cd-851a-45921403059c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC681768-2ACC-449B-B849-74D62F4C4342/e6/b0da5cea/MessageBox.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C251657A-8928-4869-9043-AD3913D9E471/9d/b84933c0/Uri.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/Properties/Annotations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/DialogWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/DialogWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/BindingExampleWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/CommandWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/Models/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/BindingExampleWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/CommandWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/ModelViews/PersonViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A55D587-43EC-479C-866B-425E85A3236D/ce/eb75fa11/ExecutionContextSwitcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WpfApplication1/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WpfApplication1/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/Models/Phone.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/Models/MathFuncs.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/Properties/Annotations.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/Content/Report.json" />
+        <option value="$PROJECT_DIR$/WpfApplication1/ModelViews/MainVM.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/Models/Person.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/ModelViews/PersonViewModel.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/WpfApplication1/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/BindingExampleWindow.xaml" />
+        <option value="$PROJECT_DIR$/WpfApplication1/BindingExampleWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/CommandWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/WpfApplication1/CommandWindow.xaml" />
+        <option value="$PROJECT_DIR$/WpfApplication1/App.xaml" />
+        <option value="$PROJECT_DIR$/WpfApplication1/DialogWindow.xaml" />
+        <option value="$PROJECT_DIR$/WpfApplication1/DialogWindow.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S7PD5rrfivItIhRY2dAm4VQu46" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pictures/Велосипед  norco.PNG" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WpfApplication1/bin/Debug/WpfApplication1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WpfApplication1/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WpfApplication1/WpfApplication1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b3015e5-7762-48cd-851a-45921403059c" name="Default Changelist" comment="" />
+      <created>1570911537967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570911537967</updated>
+      <workItem from="1570911539355" duration="1800000" />
+      <workItem from="1570993290416" duration="346000" />
+      <workItem from="1571075771591" duration="2844000" />
+      <workItem from="1572370771742" duration="5242000" />
+      <workItem from="1572547333212" duration="5417000" />
+      <workItem from="1572699950512" duration="16870000" />
+      <workItem from="1573837249087" duration="22244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="37" key="#Default" />
+    <state x="367" y="37" key="#Default/1366.768" />
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.768" />
+    <state width="569" height="437" key="DebuggerActiveHint" />
+    <state width="569" height="437" key="DebuggerActiveHint/1366.768" />
+    <state x="463" y="117" key="FileChooserDialogImpl" />
+    <state x="463" y="117" key="FileChooserDialogImpl/1366.768" />
+    <state width="1322" height="82" key="GridCell.Tab.0.bottom" />
+    <state width="1322" height="82" key="GridCell.Tab.0.bottom/1366.768" />
+    <state width="1322" height="82" key="GridCell.Tab.0.center" />
+    <state width="1322" height="82" key="GridCell.Tab.0.center/1366.768" />
+    <state width="1322" height="82" key="GridCell.Tab.0.left" />
+    <state width="1322" height="82" key="GridCell.Tab.0.left/1366.768" />
+    <state width="1322" height="82" key="GridCell.Tab.0.right" />
+    <state width="1322" height="82" key="GridCell.Tab.0.right/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.1.bottom" />
+    <state width="1322" height="100" key="GridCell.Tab.1.bottom/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.1.center" />
+    <state width="1322" height="100" key="GridCell.Tab.1.center/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.1.left" />
+    <state width="1322" height="100" key="GridCell.Tab.1.left/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.1.right" />
+    <state width="1322" height="100" key="GridCell.Tab.1.right/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.2.bottom" />
+    <state width="1322" height="100" key="GridCell.Tab.2.bottom/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.2.center" />
+    <state width="1322" height="100" key="GridCell.Tab.2.center/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.2.left" />
+    <state width="1322" height="100" key="GridCell.Tab.2.left/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.2.right" />
+    <state width="1322" height="100" key="GridCell.Tab.2.right/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.3.bottom" />
+    <state width="1322" height="100" key="GridCell.Tab.3.bottom/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.3.center" />
+    <state width="1322" height="100" key="GridCell.Tab.3.center/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.3.left" />
+    <state width="1322" height="100" key="GridCell.Tab.3.left/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.3.right" />
+    <state width="1322" height="100" key="GridCell.Tab.3.right/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.4.bottom" />
+    <state width="1322" height="100" key="GridCell.Tab.4.bottom/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.4.center" />
+    <state width="1322" height="100" key="GridCell.Tab.4.center/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.4.left" />
+    <state width="1322" height="100" key="GridCell.Tab.4.left/1366.768" />
+    <state width="1322" height="100" key="GridCell.Tab.4.right" />
+    <state width="1322" height="100" key="GridCell.Tab.4.right/1366.768" />
+    <state x="278" y="64" key="Rider.ProjectTemplateDialog.Size" />
+    <state x="278" y="64" key="Rider.ProjectTemplateDialog.Size/1366.768" />
+    <state x="291" y="33" key="RiderGenerateDialog" />
+    <state x="291" y="33" key="RiderGenerateDialog/1366.768" />
+    <state x="171" y="0" key="SettingsEditor" />
+    <state x="171" y="0" key="SettingsEditor/1366.768" />
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup" />
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup/1366.768" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/1366.768" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WpfApplication1/BindingExampleWindow.xaml.cs</url>
+          <line>118</line>
+          <properties documentPath="$PROJECT_DIR$/WpfApplication1/BindingExampleWindow.xaml.cs" initialLine="109">
+            <startOffsets>
+              <option value="3186" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3243" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
